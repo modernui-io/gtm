@@ -8,8 +8,6 @@ CLAUDE.md
 node_modules/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDE
@@ -34,3 +32,4 @@ out/
 npm-debug.log*
 .vercel
 gtm-repo-export/
+config.bat
